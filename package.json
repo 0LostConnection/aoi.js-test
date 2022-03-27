@@ -1,0 +1,19 @@
+{
+  "name": "aoi.js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0LostConnection/aoi.js-test.git"
+  },
+  "author": "Geovane Saraiva da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0LostConnection/aoi.js-test/issues"
+  },
+  "homepage": "https://github.com/0LostConnection/aoi.js-test#readme"
+}
